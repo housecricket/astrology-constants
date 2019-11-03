@@ -9,15 +9,15 @@ const Rat = {
     lName: 'Tý',
     cName: '鼠',
     vName: 'Chuột',
-    polarity: yinyang.yang,
-    element: elements.water,
+    polarity: yinyang.YANG,
+    element: elements.WATER,
     season: seasons.winter,
-    direction: directions.north,
+    direction: directions.NORTH,
     hours: [23, 1],
     month: 2,
 }
 module.exports = Object.freeze({
-    Rat: Rat
+    RAT: Rat
 })
 
 

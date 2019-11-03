@@ -4,6 +4,6 @@ const winter =  {
 
 }
 module.exports = Object.freeze({
-    winter: winter
+    WINTER: winter
 })
 

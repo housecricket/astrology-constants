@@ -9,6 +9,6 @@ const yang = {
     vName: 'Dương'
 }
 module.exports = Object.freeze({
-    yin: yin,
-    yang: yang
+    YIN: yin,
+    YANG: yang
 })
